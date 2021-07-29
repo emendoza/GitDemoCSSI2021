@@ -38,3 +38,7 @@ class Powerups {
     
   }
 }
+
+class Enemy {
+	
+}
