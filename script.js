@@ -28,3 +28,13 @@ class Apple {
     // Checks here.
   }
 }
+
+class Powerups {
+  constructor() {
+
+  }
+
+  drawPowerUps() {
+    
+  }
+}
