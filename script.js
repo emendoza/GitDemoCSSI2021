@@ -5,3 +5,13 @@ function setUP() {
 function draw() {
 	// draw
 }
+
+class Snake {
+	function constructor() {
+
+	}
+
+	function drawSnake() {
+		
+	}
+}
